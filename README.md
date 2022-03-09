@@ -1,2 +1,2 @@
 # Unit3_StarterFiles
- Enviroment, Modeling, and Set Dressing
+ Real-time Animated Storytelling Unit 3 - Enviroment, Modeling, and Set Dressing
